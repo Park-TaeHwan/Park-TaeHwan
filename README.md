@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Gachon University.
+🔭 I’m currently working on Gachon University. \n
 📫 If you want to reach me, contact me on chem602@naver.com
 
 <!--
