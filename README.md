@@ -3,7 +3,9 @@
 
 🔭 I’m currently working on Gachon University.
 
-#📫 If you want to reach me, contact me on chem602@naver.com
+🌱 I’m currently learning machine learning and computer graphics.
+
+📫 If you want to reach me, contact me on chem602@naver.com
 
 <!--
 **Park-TaeHwan/Park-TaeHwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
