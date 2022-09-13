@@ -1,8 +1,9 @@
 ### Hi there 👋
+## This ReadMe File introduces me.
 
 🔭 I’m currently working on Gachon University.
 
-📫 If you want to reach me, contact me on chem602@naver.com
+#📫 If you want to reach me, contact me on chem602@naver.com
 
 <!--
 **Park-TaeHwan/Park-TaeHwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
